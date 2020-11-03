@@ -1,2 +1,0 @@
-# MyangelOmoi.github.io
-web
